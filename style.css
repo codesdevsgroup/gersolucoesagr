@@ -30,7 +30,7 @@
   --brand-light-2: hsl(calc(var(--hue) + 10), 14%, 97%);
   --brand-dark: hsl(var(--hue), 100%, 14%);
 
-  --bg-light: hsl(180, 40%, 98%);
+  --bg-light: hsl(180, 12%, 94%);
 
   font-size: 62.5%; /* 1rem = 10 pix */
 
@@ -183,6 +183,10 @@ nav button {
   background: none;
   border: none;
   cursor: pointer;
+}
+
+nav button path {
+  stroke: var(--paragraph);
 }
 
 nav .menu,
