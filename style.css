@@ -345,7 +345,7 @@ body.menu-expanded button path {
   width: 20rem;
   display: block;
   margin-inline: auto;
-  object-position: 0 2rem;
+  object-position: 0 1rem;
 }
 
 #home .stats {
