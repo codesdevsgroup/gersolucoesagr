@@ -342,10 +342,10 @@ body.menu-expanded button path {
 }
 
 #home img {
-  width: 20rem;
+  width: 50rem;
   display: block;
   margin-inline: auto;
-  object-position: 0 1rem;
+  object-position: 0 2rem;
 }
 
 #home .stats {
@@ -744,8 +744,9 @@ footer h2 {
   }
 
   #home img {
-    width: 40rem;
+    width: 60rem;
     margin-right: 5rem;
+    margin-top: 10rem;
   }
 
   /*=== Services =========================*/
