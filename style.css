@@ -167,6 +167,12 @@ body.menu-expanded #navegacao .logo path,
   stroke: white;
 }
 
+/***** Logo *****/
+
+#logo{
+  width: 65px;
+}
+
 /*=== navegacao =========================*/
 
 nav {
