@@ -435,7 +435,7 @@ line-height: 150%;
 
 #about img {
   border-radius: 1.5rem;
-  width: 40rem;
+  width: 60rem;
   display: block;
   margin: auto;
 }
@@ -811,9 +811,6 @@ footer h2 {
 
   footer p {
     margin-bottom: 0;
-  }
-  .sobrenos{
-    margin-top: 50px;
   }
 }
 
